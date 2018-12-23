@@ -1,0 +1,25 @@
+[ ] CMS api analytics
+  [ ] All
+    [ ] Create entity tags
+    [ ] Save plugin to db and add options tags
+    [ ] 
+    [ ] 
+    [ ] 
+  [ ] Wordpress
+    [ ] Create simple plugins parser
+    [ ] 
+    [ ] 
+  [ ] Prestashop
+    [ ] ? Prestashop EPR
+  [ ] Joomla
+    [ ] ? VirtueMart
+    [ ] ? JoomShopping
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 
+    [ ] 

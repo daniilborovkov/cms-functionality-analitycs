@@ -1,0 +1,3 @@
+# Modx
+
+MODX (originally MODx) is a free, open source content management system and web application framework for publishing content on the world wide web and intranets. MODX is licensed under the GPL, is written in the PHP programming language, and supports MySQL and Microsoft SQL Server as the database. It was awarded Packt Publishing's Most Promising Open Source Content Management System in 2007.
